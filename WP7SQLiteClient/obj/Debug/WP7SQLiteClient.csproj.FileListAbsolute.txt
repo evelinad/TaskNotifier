@@ -1,0 +1,57 @@
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\ApplicationIcon.png
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Background.png
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.pdb
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\AppManifest.xaml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.xap
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Community.CsharpSqlite.WP.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Community.CsharpSqlite.WP.pdb
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\App.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\MainPage.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\TestDataEditor.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.g.resources
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.pdb
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\XapCacheFile.xml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\NewItem.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\mscorlib.extensions.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\TaskHelper.dll
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\mscorlib.extensions.xml
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\TaskHelper.pdb
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\Page2.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\Page3.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\Map.g.i.cs
+C:\Users\evelina\Desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\ViewMap.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\ApplicationIcon.png
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Background.png
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.pdb
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\AppManifest.xaml
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\WP7SQLiteClient.xap
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Community.CsharpSqlite.WP.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Community.CsharpSqlite.WP.pdb
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\App.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\AddNotification.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\MainPage.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\NewItem.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\Page2.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\Page3.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\TestDataEditor.g.i.cs
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.g.resources
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.dll
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\WP7SQLiteClient.pdb
+D:\My Documents\desktop\SQLLite2\WP7SQLiteClient\WP7SQLiteClient\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{65013c01-eef7-4307-a21a-23e8c9002207}" Title="Task Notifier" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Evelina Dumitrescu" Description="Sample description" Publisher="Evelina Dumitrescu">
+    <IconPath IsRelative="true" IsResource="false">icon22_62.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_PUSH_NOTIFICATION" />
+    </Capabilities>
+    <Tasks>
+      <!--<DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>-->
+      <DefaultTask Name="_default" NavigationPage="Mainpage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="WP7SQLiteClientToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">icon22_173 - Copy.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>Task Notifier</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>

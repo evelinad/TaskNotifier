@@ -1,0 +1,88 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="WP7SQLiteClient.TestDataEditor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" Text="Simple Customer Editor" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle2Style}" DataContext="{Binding}" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer Height="533" HorizontalAlignment="Left" Margin="9,26,0,0" Name="scrollViewer1" VerticalAlignment="Top" Width="441">
+
+                <!--show score-->
+                <Canvas x:Name="CanvasScores" Width="213" Height="200"
+                    Canvas.Top="30" Canvas.Left="-260">
+                    <Canvas.Resources>
+                        <Storyboard x:Name="CanvasScoresShow">
+                            <DoubleAnimation Storyboard.TargetName="CanvasScores"
+                        Storyboard.TargetProperty="(Canvas.Left)"
+                        From="-260" To="35" Duration="0:0:0.5"
+                        AutoReverse="False" />
+                        </Storyboard>
+                        <Storyboard x:Name="CanvasScoresHide">
+                            <DoubleAnimation Storyboard.TargetName="CanvasScores"
+                        Storyboard.TargetProperty="(Canvas.Left)"
+                        From="35" To="-260" Duration="0:0:0.5"
+                        AutoReverse="False" />
+                        </Storyboard>
+                    </Canvas.Resources>
+                    <Border Width="450" Height="632" CornerRadius="10" Margin="0"
+                        Opacity="0.8" BorderBrush="Wheat" BorderThickness="1" Canvas.Left="-117" Canvas.Top="-147">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <LinearGradientBrush.GradientStops>
+                                    <GradientStop Color="White" Offset="0"/>
+                                    <GradientStop Color="Wheat" Offset="1"/>
+                                </LinearGradientBrush.GradientStops>
+                            </LinearGradientBrush>
+                        </Border.Background>
+                    </Border>
+                    <TextBlock Text="ID" Canvas.Top="-126" Canvas.Left="-63" />
+                    <TextBlock Text="Name" Canvas.Top="-126" Canvas.Left="6" />
+                    <TextBlock Text="Email" Canvas.Top="-126" Canvas.Left="111" />
+                    <TextBlock Text="Desc" Canvas.Top="-126" Canvas.Left="234" />
+                    <TextBlock x:Name="TextBlockID" Canvas.Top="-67" Canvas.Left="-49" />
+                    <TextBlock x:Name="TextBlockName" Canvas.Top="-67" Canvas.Left="11" />
+                    <TextBlock x:Name="TextBlockEmail" Canvas.Top="-67" Canvas.Left="116" />
+                    <TextBlock x:Name="TextBlockDesc" Canvas.Top="-67" Canvas.Left="226" />
+                </Canvas>
+
+            </ScrollViewer>
+            <Button Content="Add" Height="71" HorizontalAlignment="Left" Margin="0,565,0,0" Name="btnAdd" VerticalAlignment="Top" Width="134" Click="btnAdd_Click" />
+            <Button Content="Del Last 1" Height="72" HorizontalAlignment="Left" Margin="134,564,0,0" Name="btnDel" VerticalAlignment="Top" Width="160" Click="btnDel_Click" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

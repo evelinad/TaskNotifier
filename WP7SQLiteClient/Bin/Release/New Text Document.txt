@@ -1,0 +1,12 @@
+Hi,
+
+
+I tried today to resubmit the app.
+I think I have done all the required changes: modified the NeutralResourcesLanguage attribute from the AssemblyInfo.cs file and clean and build again the solution/ recompiled it .
+To proove this, I atached 2 screenshots with the required changes.
+I can't figure it out what else the problem may be.
+I hope this time I will be lucky enough. 
+
+Yours sincerely,
+Evelina
+
